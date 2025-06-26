@@ -49,10 +49,6 @@
 <a href="https://github.com/PantaDhanush">
   <img height="180em" src="https://streak-stats.demolab.com?user=PantaDhanush&theme=tokyonight&border_radius=10&fire=DD2727&currStreakLabel=F29D35&dates=AAAAAA" />
 </a>
-
-<!-- Contribution Snake Animation -->
-<img src="https://github.com/PantaDhanush/PantaDhanush/raw/output/github-contribution-grid-snake.svg" alt="snake gif" width="100%" />
-
 </div>
 
 
