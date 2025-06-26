@@ -38,20 +38,20 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/PantaDhanush">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/PantaDhanush">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" />
 </a>
 
 <!-- GitHub Streak -->
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/PantaDhanush">
   <img height="180em" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&border_radius=10&fire=DD2727&currStreakLabel=F29D35&dates=AAAAAA" />
 </a>
 
 <!-- Contribution Snake Animation -->
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/output/github-contribution-grid-snake.svg" alt="snake gif" width="100%" />
+<img src="https://github.com/PantaDhanush/PantaDhanush/raw/output/github-contribution-grid-snake.svg" alt="snake gif" width="100%" />
 
 </div>
 
