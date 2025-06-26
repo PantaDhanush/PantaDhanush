@@ -1,10 +1,10 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm John Doe</h1>
+<h1 align="center">Hi 👋, I'm Dhanush</h1>
 <h3 align="center">🚀 Full Stack Developer | 🌐 Web Enthusiast | 🧠 Lifelong Learner</h3>
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/johndoe" target="_blank">
+  <a href="https://www.linkedin.com/in/panta-dhanush-kumar-reddy-665045275/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:johndoe@example.com">
@@ -29,19 +29,32 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django,mysql,mongodb,git,github,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,mysql,mongodb,git,github,aws" />
 </p>
 
 ---
+### 📊 GitHub Insights
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=radical" height="180px" />
-</p>
+<!-- GitHub Stats -->
+<a href="https://github.com/YOUR_USERNAME">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+</a>
+<a href="https://github.com/YOUR_USERNAME">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" />
+</a>
 
----
+<!-- GitHub Streak -->
+<a href="https://github.com/YOUR_USERNAME">
+  <img height="180em" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&border_radius=10&fire=DD2727&currStreakLabel=F29D35&dates=AAAAAA" />
+</a>
+
+<!-- Contribution Snake Animation -->
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/output/github-contribution-grid-snake.svg" alt="snake gif" width="100%" />
+
+</div>
+
 
 ### 🧠 Currently Learning
 
